@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdce6fbb-3a8d-4e6f-b331-371727cec0a5" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/ReplaceText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/TestDataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/TestFileStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6/PrintCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6/RandomCharacter.java" afterDir="false" />
+    <list default="true" id="fdce6fbb-3a8d-4e6f-b331-371727cec0a5" name="变更" comment="二进制文件IO">
+      <change afterPath="$PROJECT_DIR$/src/ch19/AnyWildCardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/GenericSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/GenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/MaxRaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/MaxUsingGenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/SuperWildCardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/WildCardNeedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DHupp6DpfJTScT4bfqKjVtYtou" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,8 +60,25 @@
       <workItem from="1660368846694" duration="1590000" />
       <workItem from="1660387660951" duration="2317000" />
       <workItem from="1660443274582" duration="2846000" />
-      <workItem from="1661258441314" duration="833000" />
+      <workItem from="1661258441314" duration="1483000" />
+      <workItem from="1661406313514" duration="1975000" />
+      <workItem from="1661649834056" duration="2794000" />
     </task>
+    <task id="LOCAL-00001" summary="二进制文件IO">
+      <created>1661259987438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661259987438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="二进制文件IO">
+      <created>1661260001266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661260001266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="二进制文件IO" />
+    <option name="LAST_COMMIT_MESSAGE" value="二进制文件IO" />
   </component>
 </project>
