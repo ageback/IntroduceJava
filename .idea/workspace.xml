@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdce6fbb-3a8d-4e6f-b331-371727cec0a5" name="变更" comment="二进制文件IO">
-      <change afterPath="$PROJECT_DIR$/src/ch19/AnyWildCardDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/GenericSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/GenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/MaxRaw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/MaxUsingGenericType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/SuperWildCardDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch19/WildCardNeedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch19/GenericMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +56,8 @@
       <workItem from="1660443274582" duration="2846000" />
       <workItem from="1661258441314" duration="1483000" />
       <workItem from="1661406313514" duration="1975000" />
-      <workItem from="1661649834056" duration="2794000" />
+      <workItem from="1661649834056" duration="3392000" />
+      <workItem from="1661774611197" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="二进制文件IO">
       <created>1661259987438</created>
