@@ -1,4 +1,4 @@
-package ch19;
+package ch19.genericmatrix;
 
 public class IntegerMatrix extends GenericMatrix<Integer> {
 

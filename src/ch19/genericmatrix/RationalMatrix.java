@@ -1,18 +1,20 @@
-package ch19;
+package ch19.genericmatrix;
+
 import ch13.Rational;
-public class RationalMatrix extends GenericMatrix<Rational>{
+
+public class RationalMatrix extends GenericMatrix<Rational> {
     @Override
     protected Rational add(Rational o1, Rational o2) {
-        return null;
+        return o1.add(o2);
     }
 
     @Override
     protected Rational multiply(Rational o1, Rational o2) {
-        return null;
+        return o1.multiply(o2);
     }
 
     @Override
     protected Rational zero() {
-        return null;
+        return new Rational(0, 1);
     }
 }
