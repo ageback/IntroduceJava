@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdce6fbb-3a8d-4e6f-b331-371727cec0a5" name="变更" comment="二进制文件IO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch19/GenericMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch19/GenericMatrix.java" afterDir="false" />
+    <list default="true" id="fdce6fbb-3a8d-4e6f-b331-371727cec0a5" name="变更" comment="fix build">
+      <change afterPath="$PROJECT_DIR$/src/ch19/IntegerMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1661406313514" duration="1975000" />
       <workItem from="1661649834056" duration="3392000" />
       <workItem from="1661774611197" duration="2499000" />
-      <workItem from="1661849527695" duration="183000" />
+      <workItem from="1661849527695" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="二进制文件IO">
       <created>1661259987438</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661260001266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix build">
+      <created>1661849929463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661849929463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +98,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="二进制文件IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="二进制文件IO" />
+    <MESSAGE value="fix build" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix build" />
   </component>
 </project>
